@@ -1,0 +1,19 @@
+# Backend Dependencies
+Flask==3.0.0
+Flask-Limiter==3.5.0
+PyMongo==4.6.1
+prometheus_client==0.19.0
+python-dotenv==1.0.0
+openai==1.12.0
+gunicorn==21.2.0
+bcrypt==4.1.0
+
+# Testing
+pytest==7.4.4
+pytest-asyncio==0.21.2
+pytest-cov==4.1.0
+
+# Linting and formatting
+flake8==7.0.0
+black==24.1.1
+isort==5.13.2
